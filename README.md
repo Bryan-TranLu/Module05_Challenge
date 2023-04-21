@@ -1,6 +1,9 @@
 # Module05_Challenge
 Submission for Bryan Tran Lu
 
+## Instructions
+The assignment script can be found in the Starter Code folder. The file name is financial_planning_tools.ipynb.
+
 ## Description
 This assigment uses API keys to read json files in python. Monte Carlo simulations will be performed to analyze the returns of various porfolio weights of stocks and bonds.
 
